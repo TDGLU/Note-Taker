@@ -9,3 +9,7 @@ To use, run `node index.js` to start the app.
 ## Install
 
 When you have this project, run `npm install` to install the dependences in the packagejson file.
+
+Github: [TDGLU](https://github.com/TDGLU)
+
+Email: lukemobob@gmail.com
