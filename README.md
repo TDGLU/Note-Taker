@@ -2,6 +2,8 @@
 
 This app that allows the user to store their notes with a title and a paragraph area to send to a database while using express for the backend. 
 
+Live page: https://note-taker-luke.herokuapp.com/
+
 ## Usage
 
 To use, run `node index.js` to start the app.
